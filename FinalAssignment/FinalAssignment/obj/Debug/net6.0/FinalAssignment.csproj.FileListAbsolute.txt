@@ -1,0 +1,15 @@
+C:\Users\TAANASAA\Projects\csharp\VallahFinal\FinalAssignment\FinalAssignment\bin\Debug\net6.0\FinalAssignment.exe
+C:\Users\TAANASAA\Projects\csharp\VallahFinal\FinalAssignment\FinalAssignment\bin\Debug\net6.0\FinalAssignment.deps.json
+C:\Users\TAANASAA\Projects\csharp\VallahFinal\FinalAssignment\FinalAssignment\bin\Debug\net6.0\FinalAssignment.runtimeconfig.json
+C:\Users\TAANASAA\Projects\csharp\VallahFinal\FinalAssignment\FinalAssignment\bin\Debug\net6.0\FinalAssignment.dll
+C:\Users\TAANASAA\Projects\csharp\VallahFinal\FinalAssignment\FinalAssignment\bin\Debug\net6.0\FinalAssignment.pdb
+C:\Users\TAANASAA\Projects\csharp\VallahFinal\FinalAssignment\FinalAssignment\obj\Debug\net6.0\FinalAssignment.csproj.AssemblyReference.cache
+C:\Users\TAANASAA\Projects\csharp\VallahFinal\FinalAssignment\FinalAssignment\obj\Debug\net6.0\FinalAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAANASAA\Projects\csharp\VallahFinal\FinalAssignment\FinalAssignment\obj\Debug\net6.0\FinalAssignment.AssemblyInfoInputs.cache
+C:\Users\TAANASAA\Projects\csharp\VallahFinal\FinalAssignment\FinalAssignment\obj\Debug\net6.0\FinalAssignment.AssemblyInfo.cs
+C:\Users\TAANASAA\Projects\csharp\VallahFinal\FinalAssignment\FinalAssignment\obj\Debug\net6.0\FinalAssignment.csproj.CoreCompileInputs.cache
+C:\Users\TAANASAA\Projects\csharp\VallahFinal\FinalAssignment\FinalAssignment\obj\Debug\net6.0\FinalAssignment.dll
+C:\Users\TAANASAA\Projects\csharp\VallahFinal\FinalAssignment\FinalAssignment\obj\Debug\net6.0\refint\FinalAssignment.dll
+C:\Users\TAANASAA\Projects\csharp\VallahFinal\FinalAssignment\FinalAssignment\obj\Debug\net6.0\FinalAssignment.pdb
+C:\Users\TAANASAA\Projects\csharp\VallahFinal\FinalAssignment\FinalAssignment\obj\Debug\net6.0\FinalAssignment.genruntimeconfig.cache
+C:\Users\TAANASAA\Projects\csharp\VallahFinal\FinalAssignment\FinalAssignment\obj\Debug\net6.0\ref\FinalAssignment.dll
